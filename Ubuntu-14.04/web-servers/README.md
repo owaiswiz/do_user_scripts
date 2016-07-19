@@ -5,7 +5,7 @@ Web Servers
 lamp.sh
 ---------------
 
-Installs a basic ["LAMP" stack](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04) with Apache, PHP, and MySQL.
+Installs a basic ["LAMP" stack](https://lideploy.com/tutorials/setup-lamp-server-automatically-ubuntu-14-04-just-3-clicks/) with Apache, PHP, and MySQL.
 
 
 lemp.yml
